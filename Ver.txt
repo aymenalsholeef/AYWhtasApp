@@ -1,0 +1,17 @@
+{"version_code":2,"content":"
+<p>تحديث 1.10 </p>
+
+<li>زيادة الحماية من الحظر</li>
+<li>اضافة ميزه مراسله رقم غير محفوظ</li>
+<li>بعض خيارات الخصوصيه</li>
+<li>تحسينات</li>
+<li>اصلاحات اخرى</li>
+
+<li>Increased ban protection</li>
+<li>collapses in modern devices</li>
+<li>Fix privacy options</li>
+<li>Improvements</li>
+<li>Other repairs</li>
+
+","url":"https://www.aymods.com/2019/01/ayman.html"
+}
